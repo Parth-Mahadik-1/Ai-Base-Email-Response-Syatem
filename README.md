@@ -8,7 +8,7 @@ A clean **Streamlit UI** is included for smooth real-time testing.
 ## 🎥 Demonstration Video
 
 ### **➡️ Demonstration video link is here:**  
-🔗 *[LinkedIn Video Link — Add Your Link Here]*
+🔗 *[LinkedIn Video Link — [ (https://www.linkedin.com/posts/parth-mahadik_datascience-mlengineering-langchain-7396204385640361985-CHUB)]*
 
 ---
 
