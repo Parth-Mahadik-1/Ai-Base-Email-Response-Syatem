@@ -8,7 +8,7 @@ A clean **Streamlit UI** is included for smooth real-time testing.
 ## 🎥 Demonstration Video
 
 ### **➡️ Demonstration video link is here:**  
-🔗 *[LinkedIn Video Link — [ (https://www.linkedin.com/posts/parth-mahadik_datascience-mlengineering-langchain-7396204385640361985-CHUB)]*
+🔗 *[LinkedIn Video Link — [ (https://www.linkedin.com/posts/parth-mahadik_datascience-mlengineering-langchain-activity-7396204385640361985-CHUB?utm_source=social_share_send&utm_medium=android_app&rcm=ACoAAEXfUkUBEnw0ueXBnKS10Irzgo9f874n2LE&utm_campaign=copy_link)]*
 
 ---
 
