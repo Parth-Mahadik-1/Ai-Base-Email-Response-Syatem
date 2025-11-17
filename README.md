@@ -12,6 +12,12 @@ A clean **Streamlit UI** is included for smooth real-time testing.
 
 ---
 
+## Test Result 
+<p align="center">
+  <img src="https://github.com/Parth-Mahadik-1/langchain-chains/blob/main/screenshots/chain%20ss/simple.png" width="550" />
+
+</p>
+
 ## 🧩 Tech Stack
 
 | Component | Description |
